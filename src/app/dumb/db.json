@@ -1,0 +1,19 @@
+{
+    "stateConfig": [
+      {
+        "stateCode":"233",
+        "stateName":"Maharashtra",
+        "stateMail":"maharashtra@gov.in"
+      },
+      {
+        "stateCode":"242",
+        "stateName":"Punjab",
+        "stateMail":"punjab@gov.in"
+      },
+      {
+        "stateCode":"264",
+        "stateName":"Gujrat",
+        "stateMail":"gujrat@gov.in"
+      }
+    ]
+  }
